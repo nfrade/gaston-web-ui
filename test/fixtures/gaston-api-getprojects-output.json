@@ -1,0 +1,47 @@
+{
+  "/Applications/MAMP/htdocs/vigour/uikit": {
+    "listening": false,
+    "pkgPath": "/Applications/MAMP/htdocs/vigour/uikit/package.json",
+    "base-path": "/Applications/MAMP/htdocs/vigour/uikit",
+    "projectFile": "/Users/nfrade/.gaston/projects/__Applications__MAMP__htdocs__vigour__uikit.json",
+    "http-port": 8083,
+    "stopped": false,
+    "name": "vigour-uikit",
+    "ip": "192.168.100.118",
+    "branch": "develop"
+  },
+  "/Applications/MAMP/htdocs/vigour/gaston_redesign_mockup": {
+    "listening": false,
+    "pkgPath": "/Applications/MAMP/htdocs/vigour/gaston_redesign_mockup/package.json",
+    "base-path": "/Applications/MAMP/htdocs/vigour/gaston_redesign_mockup",
+    "projectFile": "/Users/nfrade/.gaston/projects/__Applications__MAMP__htdocs__vigour__gaston_redesign_mockup.json",
+    "http-port": 8082,
+    "stopped": false,
+    "name": "gaston_redesign_mockup",
+    "ip": "192.168.100.118",
+    "branch": "master"
+  },
+  "/Applications/MAMP/htdocs/vigour/element": {
+    "listening": false,
+    "pkgPath": "/Applications/MAMP/htdocs/vigour/element/package.json",
+    "base-path": "/Applications/MAMP/htdocs/vigour/element",
+    "projectFile": "/Users/nfrade/.gaston/projects/__Applications__MAMP__htdocs__vigour__element.json",
+    "http-port": 8081,
+    "stopped": false,
+    "name": "vigour-element",
+    "ip": "192.168.100.118",
+    "branch": "develop"
+  },
+  "/Applications/MAMP/htdocs/vigour/gaston-web-ui": {
+    "listening": false,
+    "pkgPath": "/Applications/MAMP/htdocs/vigour/gaston-web-ui/package.json",
+    "base-path": "/Applications/MAMP/htdocs/vigour/gaston-web-ui",
+    "projectFile": "/Users/nfrade/.gaston/projects/__Applications__MAMP__htdocs__vigour__gaston-web-ui.json",
+    "name": "gaston-web-ui",
+    "ip": "192.168.100.118",
+    "branch": "no-git-repository",
+    "stopped": false,
+    "http-port": 8084,
+    "reloading": false
+  }
+}
