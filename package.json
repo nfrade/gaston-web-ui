@@ -1,9 +1,9 @@
 {
   "name": "gaston-web-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Web interface for gaston",
   "scripts": {
-    "build": "gaston build -s lib/index.js -o build/ -i"
+    "build": "gaston build -s lib/index.js -o build/"
   },
   "dependencies": {
     "vigour-js": "0.3.8",
