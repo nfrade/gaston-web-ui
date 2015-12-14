@@ -1,5 +1,8 @@
 {
   "name": "gaston-web-ui",
+  "scripts": {
+    "build": "gaston build -s lib/index.js -o build/ -i"
+  },
   "dependencies": {
     "vigour-js": "0.3.8",
     "vigour-uikit": "0.3.1",
