@@ -1,6 +1,6 @@
 {
   "name": "gaston-web-ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Web interface for gaston",
   "scripts": {
     "build": "gaston build -s lib/index.js -o build/"
