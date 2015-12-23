@@ -6,8 +6,8 @@
     "build": "gaston build -s lib/index.js -o build/"
   },
   "dependencies": {
-    "vigour-js": "0.3.8",
-    "vigour-uikit": "0.3.1",
-    "vigour-element": "0.2.1"
+    "vigour-js": "git+ssh://git@github.com:vigour-io/vjs.git#develop",
+    "vigour-uikit": "git+ssh://git@github.com:vigour-io/uikit.git#develop",
+    "vigour-element": "git+ssh://git@github.com:vigour-io/element.git#develop"
   }
 }
